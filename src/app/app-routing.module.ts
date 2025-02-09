@@ -7,8 +7,8 @@ import { CafmComponent } from './cafm/cafm.component';
 import { AdvantageComponent } from './advantage/advantage.component';
 import { TeamComponent } from './team/team.component';
 import { ContactComponent } from './contact/contact.component';
+//  import { ProjectsComponent } from './projects/projects.component';
 import { ProjectsComponent } from './projects/projects.component';
-
 
 
 const routes: Routes = [
